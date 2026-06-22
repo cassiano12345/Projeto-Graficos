@@ -1,0 +1,250 @@
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Graficos.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Graficos.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Graficos.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\PdfSharp.Charting.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\PdfSharp.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Text.Json.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\PdfSharp.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\PdfSharp.Charting.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Text.Json.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\System.ValueTuple.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\obj\Debug\Graficos_2024.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\obj\Debug\Graficos.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\obj\Debug\Graficos.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\obj\Debug\Graficos.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\obj\Debug\Graficos.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\obj\Debug\Graficos.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos_2024\obj\Debug\Graficos.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Graficos.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Graficos.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Graficos.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\PdfSharp.Charting.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\PdfSharp.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Text.Json.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\PdfSharp.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\PdfSharp.Charting.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Text.Json.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\System.ValueTuple.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.ChartDisplay.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Trabalhos_Cassiano_Softnova\Graficos_OFI\Graficos\obj\Debug\Graficos.Form1.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Graficos.exe.config
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Graficos.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Graficos.pdb
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.Charting.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Buffers.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Memory.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Text.Json.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.ValueTuple.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.Charting.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Buffers.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Memory.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Text.Json.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\System.ValueTuple.xml
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.AssemblyReference.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.ChartDisplay.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.Properties.Resources.resources
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.GenerateResource.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.CoreCompileInputs.cache
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.CopyComplete
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.exe
+C:\Users\helder\OneDrive\Ambiente de Trabalho\Graficos\Graficos\Graficos\obj\Debug\Graficos.pdb
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Graficos.exe.config
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Graficos.exe
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Graficos.pdb
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Buffers.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Memory.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Text.Json.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.ValueTuple.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Buffers.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Memory.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Text.Json.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.ValueTuple.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.AssemblyReference.cache
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.ChartDisplay.resources
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.Properties.Resources.resources
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.GenerateResource.cache
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.csproj.Up2Date
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.exe
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\obj\Debug\Graficos.pdb
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Google.Protobuf.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\MySql.Data.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\ZstdSharp.dll
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\Google.Protobuf.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\MySql.Data.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Cassiano Videira\Desktop\Graficos\Graficos\Graficos\bin\Debug\System.IO.Pipelines.xml
