@@ -46,13 +46,13 @@ Na imagem a baixo é possivel ver o ecrã principal do programa, com o botão pa
 </p>
 
 ***Exemplo grafico de barras*** <br/>
-Na imagem a baixo é possivel ver um exemplo do grafico de barras.
+Na imagem a baixo é possivel ver um exemplo do grafico de barras, onde é possivel ver que foi usada a função getMonthName para abreviar os meses.
 <p align="center">
   <img src="Grafico de barras.png" alt="OpenMontage" width="700">
 </p>
 
 ***Exemplo grafico de linhas*** <br/>
-Na imagem a baixo é possivel ver um exemplo do grafico de linha.
+Na imagem a baixo é possivel ver um exemplo do grafico de linha, onde é possivel ver que foi usada a função getMonthName para abreviar os meses.
 <p align="center">
   <img src="Grafico de linhas com meses.png" alt="OpenMontage" width="700">
 </p>
