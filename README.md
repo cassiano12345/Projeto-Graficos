@@ -40,16 +40,19 @@ Graficos C#-Oracle -> ChartDisplay.cs <br/>
 ***Imagens*** <br/>
 
 ***Página principal*** <br/>
+Na imagem a baixo é possivel ver o ecrã principal do programa, com o botão para trocar o tipo de grafico, a cor do grafico, para exportar para PDF e para exportar em JPG.
 <p align="center">
   <img src="Pagina principal do programa.png" alt="OpenMontage" width="700">
 </p>
 
 ***Exemplo grafico de barras*** <br/>
+Na imagem a baixo é possivel ver um exemplo do grafico de barras.
 <p align="center">
   <img src="Grafico de barras.png" alt="OpenMontage" width="700">
 </p>
 
 ***Exemplo grafico de linhas*** <br/>
+Na imagem a baixo é possivel ver um exemplo do grafico de linha.
 <p align="center">
   <img src="Grafico de linhas com meses.png" alt="OpenMontage" width="700">
 </p>
