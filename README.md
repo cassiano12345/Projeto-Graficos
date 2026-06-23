@@ -37,3 +37,20 @@ Graficos C#-Oracle -> ChartDisplay.cs <br/>
 
 - CurrentImageIndex: A variável contem o index atual do grafico apresentado, que é util para o botão de mudar de grafico apresentar a imagem do proximo grafico a ser apresentado.<br/>
 
+***Imagens*** <br/>
+
+***Página principal*** <br/>
+<p align="center">
+  <img src="Pagina principal do programa.png" alt="OpenMontage" width="700">
+</p>
+
+***Exemplo grafico de barras*** <br/>
+<p align="center">
+  <img src="Grafico de barras.png" alt="OpenMontage" width="700">
+</p>
+
+***Exemplo grafico de linhas*** <br/>
+<p align="center">
+  <img src="Grafico de linhas com meses.png" alt="OpenMontage" width="700">
+</p>
+
