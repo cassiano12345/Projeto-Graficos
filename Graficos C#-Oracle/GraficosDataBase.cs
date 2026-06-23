@@ -18,7 +18,7 @@ namespace Graficos
         public static String ConnectionString = Properties.Settings.Default.ConStr; //Obtendo os dados de ligação a base de dados
         public static String ConnectionString_ = Properties.Settings.Default.ConStr_; //Obtendo os dados de ligação a base de dados Mysql
 
-        
+        /*
         public static List<KeyValuePair<String, Double>> getGraficoOFI008(String codemp, String codutil, int ano)
         {
             List<KeyValuePair<String, Double>> kvpList = new List<KeyValuePair<string, Double>>();
@@ -63,7 +63,7 @@ namespace Graficos
             }
             return kvpList;
         }
-
+        */
         public static List<List<KeyValuePair<string, Double>>> getGraficoNOVA015_A(string codemp, string codutil, int ano)
         {
             List<List<KeyValuePair<string, Double>>> finalList = new List<List<KeyValuePair<string, Double>>>();
@@ -1982,9 +1982,48 @@ namespace Graficos
         }
 
 
+    public static List<KeyValuePair<string, double>> getGraficoOFI008(string codemp, string codutil, int ano)
+    {
+        List<KeyValuePair<string, double>> kvpList = new List<KeyValuePair<string, double>>();
 
-        #region ----  Grafico com Bug  ----
-        public static List<KeyValuePair<String, Double>> getGraficogps012(String codemp, String codutil, int ano, String opcao)
+        string sqlquery = "SELECT Valor01, Valor02, Valor03, Valor04, Valor05, Valor06, Valor07, Valor08, Valor09, Valor10, Valor11, Valor12 FROM Temp_OFI_Vendas WHERE codemp = '"+codemp+"' AND ano = '"+ano+"' AND codutil = '"+codutil+"'";
+
+        using (MySqlConnection conn = new MySqlConnection(ConnectionString_))
+        {
+            conn.Open();
+
+            using (MySqlCommand cmd = new MySqlCommand(sqlquery, conn))
+            {
+
+                using (MySqlDataReader dr = cmd.ExecuteReader())
+                {
+                    if (dr.Read())
+                    {
+                        kvpList = new List<KeyValuePair<string, double>>
+                    {
+                        new KeyValuePair<string, double>("JAN", Convert.ToDouble(dr["Valor01"])),
+                        new KeyValuePair<string, double>("FEV", Convert.ToDouble(dr["Valor02"])),
+                        new KeyValuePair<string, double>("MAR", Convert.ToDouble(dr["Valor03"])),
+                        new KeyValuePair<string, double>("ABR", Convert.ToDouble(dr["Valor04"])),
+                        new KeyValuePair<string, double>("MAI", Convert.ToDouble(dr["Valor05"])),
+                        new KeyValuePair<string, double>("JUN", Convert.ToDouble(dr["Valor06"])),
+                        new KeyValuePair<string, double>("JUL", Convert.ToDouble(dr["Valor07"])),
+                        new KeyValuePair<string, double>("AGO", Convert.ToDouble(dr["Valor08"])),
+                        new KeyValuePair<string, double>("SET", Convert.ToDouble(dr["Valor09"])),
+                        new KeyValuePair<string, double>("OUT", Convert.ToDouble(dr["Valor10"])),
+                        new KeyValuePair<string, double>("NOV", Convert.ToDouble(dr["Valor11"])),
+                        new KeyValuePair<string, double>("DEZ", Convert.ToDouble(dr["Valor12"]))
+                    };
+                    }
+                }
+            }
+        }
+
+        return kvpList;
+    }
+
+    #region ----  Grafico com Bug  ----
+    public static List<KeyValuePair<String, Double>> getGraficogps012(String codemp, String codutil, int ano, String opcao)
         {
             List<KeyValuePair<String, Double>> kvpList = new List<KeyValuePair<string, double>>();
             //converter string anos
