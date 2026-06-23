@@ -40,7 +40,7 @@ Graficos C#-Oracle -> ChartDisplay.cs <br/>
 ***Imagens*** <br/>
 
 ***Página principal*** <br/>
-Na imagem a baixo é possivel ver o ecrã principal do programa, com o botão para trocar o tipo de grafico, a cor do grafico, para exportar para PDF e para exportar em JPG.
+Na imagem a baixo é possivel ver o ecrã principal do programa, com o botão para trocar o tipo de grafico, a cor do grafico, para exportar para PDF e JPG.
 <p align="center">
   <img src="Pagina principal do programa.png" alt="OpenMontage" width="700">
 </p>
